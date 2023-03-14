@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myTitle">ABC公司</string>
+    <string name="myPhoneNum">0908688512</string>
+    <string name="myuniver1">宇宙1</string>
+    <string name="myuniver2">宇宙2</string>
+    <color name="imageColor1">#FF03DAC5</color>
+    <color name="imageColor2">#FF03DAC0</color>
+    <string name="Buttonuniverse1">universe1</string>
+    <string name="Buttonuniverse2">universe2</string>
+</resources>
